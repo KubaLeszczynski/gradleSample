@@ -3,6 +3,8 @@ package pl.akademiakodu;
 public class SimpleTest {
     public static void main(String[] args) {
         // Miłego kodzenia Oskar!
+
+        // Moja aktualizacja v1.
     }
 
 
