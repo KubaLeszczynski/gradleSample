@@ -5,6 +5,7 @@ public class SimpleTest {
         // Miłego kodzenia Oskar!
 
         // Moja aktualizacja v1.
+        // 2
     }
 
 
